@@ -1783,7 +1783,7 @@ function. For example:
 
     >>> Series([1, 2, 3]).plot(backend="backend.module")
 
-Alternatively, you can also set this option globally, do you don't need to specify
+Alternatively, you can also set this option globally, so you don't need to specify
 the keyword in each ``plot`` call. For example:
 
 .. code-block:: python
